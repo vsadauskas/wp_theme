@@ -1,0 +1,10 @@
+/*CSS failas su visais importais */
+
+/* Fontu nustatymai */
+@import "fonts.css";
+
+/* Narsykles nustatymu resetas */
+@import "reset.css";
+
+/* Mano rasytas puslapio elementu CSS*/
+@import "custom.css";
